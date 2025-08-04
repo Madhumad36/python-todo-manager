@@ -10,6 +10,7 @@ This app allows users to add, view, and remove tasks, while saving them in a tex
 • Technologies Used
   -Language: Python
   - Tools: VS Code / Terminal
+  - 
 • Concepts: 
   - Lists
   - File Handling (`open`, `read`, `write`)
@@ -22,4 +23,5 @@ This app allows users to add, view, and remove tasks, while saving them in a tex
 3. Run the script using:
 •'cmd'
 python todo.py
+
 
